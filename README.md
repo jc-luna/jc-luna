@@ -1,5 +1,5 @@
 # Howdy
 
-I like C++, Lua, Julia, and LaTeX!
+c++, julia, lua, and LaTeX enjoyer
 
 ![fumo](asset/yuyuko_at_the_puter.gif)
