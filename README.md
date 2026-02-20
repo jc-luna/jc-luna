@@ -1,5 +1,5 @@
 # Howdy
 
-c++, julia, lua, and LaTeX enjoyer
+writer of julia, lua, c++, and more...
 
 ![fumo](asset/yuyuko_at_the_puter.gif)
