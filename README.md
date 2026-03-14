@@ -1,5 +1,5 @@
 # Howdy
 
-writer of julia, lua, c++, and more...
+codes in julia, lua, c++, and more...
 
 ![fumo](asset/yuyuko_at_the_puter.gif)
